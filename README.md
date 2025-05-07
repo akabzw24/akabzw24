@@ -50,21 +50,21 @@ Conducted exploratory data analysis (EDA) on mental health and socio-economic da
   - **Health Data & AI Inquiry 2025** 
   - **National Mental Health Datathon 2025**
   - **First DREAM Target 2035 Drug Discovery Challenge** 
-- Advancing my skills in **machine learning** and **Python**
+- Advancing my skills in machine learning and Python
 
 ---
 
 ## 💞️ Collaboration Interests
-🎯 Open to **hackathons**, **case competitions**, and interdisciplinary collaborations
+- 🎯 Open to hackathons, case competitions, and interdisciplinary collaborations
+- 🚀 Open to collaboration and internships in Data Science, Business Analytics, or Applied Research.
+- 📢 How to reach me: BozhaoWang24@gmail.com
 
 ---
 
 ## 📫 Connect with Me
 
-**LinkedIn:** www.linkedin.com/in/bozhao-wang-2a63aa218 
-**Email:** BozhaoWang24@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
 
-Open to collaboration and internships in Data Science, Business Analytics, or Applied Research. Looking Forward to collaboration!
 
 
 
