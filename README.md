@@ -31,7 +31,7 @@ from complex datasets and drive data-driven decision-making. I am actively seeki
 ---
 
 ## 📂 My Projects
-- [Credit Risk Prediction Using Supervised Machine Learning Model](https://github.com/akabzw24/credit-risk-prediction)
+- [Credit Risk Prediction Using Supervised Machine Learning Model](https://github.com/akabzw24/Credit-Risk-Prediction-Using-Supervised-Machine-Learning-Model)  
 Built and compared supervised learning models to predict credit card default using imbalanced financial data. Applied SMOTE oversampling and model evaluation metrics to enhance predictive performance and support risk assessment strategies.
 - [Demographic Trends and Housing Analysis in Calgary (Capstone Project)](https://github.com/akabzw24/demographic-trends-calgary)
 Conducted regression analysis on Calgary's housing supply and population growth using historical census and building permit data. Identified key factors influencing demographic shifts and housing demands to inform urban planning strategies.
