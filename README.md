@@ -35,8 +35,6 @@ from complex datasets and drive data-driven decision-making. I am actively seeki
 Built and compared supervised learning models to predict credit card default using imbalanced financial data. Applied SMOTE oversampling and model evaluation metrics to enhance predictive performance and support risk assessment strategies.
 - [Demographic Trends and Housing Analysis in Calgary (Capstone Project)](https://github.com/akabzw24/demographic-trends-calgary)
 Conducted regression analysis on Calgary's housing supply and population growth using historical census and building permit data. Identified key factors influencing demographic shifts and housing demands to inform urban planning strategies.
-- [Customer Churn Prediction (ECON 495 Term Project)](https://github.com/akabzw24/customer-churn-prediction)
-Developed classification models including Logistic Regression and Random Forest to predict customer churn in the telecom sector. Performed data cleaning, feature engineering, hyperparameter tuning (GridSearchCV), and feature importance analysis to optimize retention strategies.
 - [Urban System Revenue Prediction with XGBoost (DSMLC Competition)](https://github.com/akabzw24/revenue-prediction)
 Applied XGBoost regression modeling to predict municipal revenue in urban systems based on infrastructure investment data. 
 - [Mental Health Datathon Project](https://github.com/akabzw24/mental-health-datathon)
