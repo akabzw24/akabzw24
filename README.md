@@ -14,31 +14,37 @@ from complex datasets and drive data-driven decision-making. I am actively seeki
 **Programming Languages:**  
 - Python
 
-**Machine Learning & Data Science:**  
-- Classification models, Regression Analysis & Hyperparameter tuning. 
+**Machine Learning & Statistical Modeling:**   
+- Classification & Regression (Logistic Regression, Random Forest, XGBoost)  
+- Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)  
+- Handling Imbalanced Data (SMOTE)  
+- Model Evaluation (AUC, Precision, Recall, Confusion Matrix)
 
 **Data Handling & Visualization:**  
 - Exploratory Data Analysis (EDA)
 - Data cleaning and preprocessing
 - Data visualization
-- Dashboard development (Excel, PowerBI)
+- Dashboard development (PowerBI, EXCEL)
 
 **Tools & Platforms:**  
 - GitHub
 - Jupyter Notebooks
 - Microsoft Excel
-
+- Power BI
 ---
 
 ## 📂 My Projects
 - [Credit Risk Prediction Using Supervised Machine Learning Model](https://github.com/akabzw24/Credit-Risk-Prediction-Using-Supervised-Machine-Learning-Model)  
 Built and compared supervised learning models to predict credit card default using imbalanced financial data. Applied SMOTE oversampling and model evaluation metrics to enhance predictive performance and support risk assessment strategies.
-- [Demographic Trends and Housing Analysis in Calgary (Capstone Project)](https://github.com/akabzw24/demographic-trends-calgary)
-Conducted regression analysis on Calgary's housing supply and population growth using historical census and building permit data. Identified key factors influencing demographic shifts and housing demands to inform urban planning strategies.
 - [Urban System Revenue Prediction with XGBoost (DSMLC Competition)](https://github.com/akabzw24/Urban-revenue-prediction-XGBoost)  
-  Applied XGBoost regression modeling to predict municipal revenue in urban systems using infrastructure investment data. Feature engineering, log transformation, and model tuning achieved high predictive accuracy.
+Applied XGBoost regression modelling to predict municipal revenue in urban systems using infrastructure investment data. Feature engineering, log transformation, and model tuning achieved high predictive accuracy.
+- [Quantify Energy Risk Case Competition 2025](https://github.com/akabzw24/quantify-energy-risk-case-2025)  
+Built classification models (Logistic Regression, Random Forest, XGBoost) to predict high-loss CAT events. Created an interactive Power BI dashboard with parametric triggers and strategic recommendations for renewable expansion.
+- [Demographic Trends and Housing Analysis in Calgary (Capstone Project)]
+Conducted regression analysis on Calgary's housing supply and population growth using historical census and building permit data. Identified key factors influencing demographic shifts and housing demands to inform urban planning strategies.
 - [Mental Health Datathon Project](https://github.com/akabzw24/mental-health-datathon)
 Conducted exploratory data analysis (EDA) on mental health and socio-economic datasets. Created visualizations and identified correlations to inform public health interventions
+
 
 ---
 
