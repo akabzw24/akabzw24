@@ -40,7 +40,7 @@ Built and compared supervised learning models to predict credit card default usi
 Applied XGBoost regression modelling to predict municipal revenue in urban systems using infrastructure investment data. Feature engineering, log transformation, and model tuning achieved high predictive accuracy.
 - [Quantify Energy Risk Case Competition 2025](https://github.com/akabzw24/quantify-energy-risk-case-2025)  
 Built classification models (Logistic Regression, Random Forest, XGBoost) to predict high-loss CAT events. Created an interactive Power BI dashboard with parametric triggers and strategic recommendations for renewable expansion.
-- [Demographic Trends and Housing Analysis in Calgary (Capstone Project)]
+- [Demographic Trends and Housing Analysis in Calgary (Capstone Project)](https://github.com/akabzw24/Demographic-Trends-and-Housing-Analysis-in-Calgary)
 Conducted regression analysis on Calgary's housing supply and population growth using historical census and building permit data. Identified key factors influencing demographic shifts and housing demands to inform urban planning strategies.
 - [Mental Health Datathon Project](https://github.com/akabzw24/mental-health-datathon)
 Conducted exploratory data analysis (EDA) on mental health and socio-economic datasets. Created visualizations and identified correlations to inform public health interventions
