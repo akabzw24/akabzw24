@@ -50,9 +50,6 @@ Developed and compared TF–IDF + Logistic Regression and fine-tuned BERT classi
 
 ## 🌱 Currently Learning & Building
 - 💻 Currently Learning NLP & LLM.
-- 🧪 Participating in national competitions:
-  - **National Mental Health Datathon 2025**
-  - **First DREAM Target 2035 Drug Discovery Challenge** 
 - Advancing my skills in machine learning and Python
 
 ---
