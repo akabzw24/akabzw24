@@ -1,6 +1,6 @@
 # 👋 Welcome! I'm Bozhao Wang
 
-🎓 Economics Undergraduate @ UCalgary | Aspiring Data Scientist | Future Business Analyst
+🎓 Economics Undergraduate @ UCalgary | Aspiring Data Scientist 
 
 ---
 
