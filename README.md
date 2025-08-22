@@ -12,7 +12,7 @@ from complex datasets and drive data-driven decision-making. I am actively seeki
 
 ## 🛠️ Technical Skills
 **Programming Languages:**  
-- Python
+- Python, SQL 
 
 **Machine Learning & Statistical Modeling:**   
 - Classification & Regression (Logistic Regression, Random Forest, XGBoost)  
