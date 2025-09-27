@@ -5,8 +5,7 @@
 ---
 
 ## 👀 About Me
-My name is Bozhao Wang. I am a data science enthusiast with expertise in machine learning, predictive modelling, and statistical analysis. With a background in economics and data science, I specialize in using machine learning algorithms to extract insights 
-from complex datasets and drive data-driven decision-making. I am actively seeking opportunities in data science, business analytics and related fields where I can apply my quantitative expertise and analytical skills to solve real-world challenges.
+My name is Bozhao Wang. I am a data science enthusiast with expertise in machine learning, predictive modelling, and statistical analysis. With a background in economics and statistics, my focus lies in applying **quantitative methods** to solve real-world problems across fintech, ESG, and urban economics domains. I’m actively seeking opportunities in **data science, business analytics, and related roles!** 
 
 ---
 
@@ -29,8 +28,10 @@ from complex datasets and drive data-driven decision-making. I am actively seeki
 **Tools & Platforms:**  
 - GitHub
 - Jupyter Notebooks
+- VS Code
 - Microsoft Excel
 - Power BI
+
 ---
 
 ## 📂 My Projects
