@@ -5,7 +5,7 @@
 ---
 
 ## 👀 About Me
-My name is Bozhao Wang. I am a data science enthusiast with expertise in machine learning, predictive modelling, and statistical analysis. With a background in economics and statistics, my focus lies in applying **quantitative methods** to solve real-world problems across fintech, ESG, and urban economics domains. I’m actively seeking opportunities in **data science, business analytics, and related roles!** 
+My name is Bozhao Wang. I am a data science enthusiast with expertise in machine learning, predictive modelling, and statistical analysis. With a background in economics and statistics, my focus lies in applying **quantitative methods** to solve real-world problems across energy, ESG, and urban economics domains. I’m actively seeking opportunities in **data science, business analytics, and related roles!** 
 
 ---
 
