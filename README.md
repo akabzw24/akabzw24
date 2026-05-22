@@ -1,64 +1,58 @@
 # 👋 Welcome! I'm Bozhao Wang
 
-🎓 Economics Undergraduate @ UCalgary | Aspiring Data Scientist 
+🎓 Economics Graduate @ UCalgary | Energy & Business Analytics Enthusiast 
 
 ---
 
 ## 👀 About Me
-My name is Bozhao Wang. I am a data science enthusiast with expertise in machine learning, predictive modelling, and statistical analysis. With a background in economics and statistics, my focus lies in applying **quantitative methods** to solve real-world problems across energy, ESG, and urban economics domains. I’m actively seeking opportunities in **data science, business analytics, and related roles!** 
+My name is Bozhao Wang, and I am passionate about applying data analytics, economic research, and statistical modelling to solve real-world business and infrastructure challenges. My background in economics, forecasting, and large-scale data analysis has led me to work on projects involving energy infrastructure risk, urban development, and municipal investment analysis.
+
+I have experience working with operational, regulatory, and economic datasets using Python, SQL, Databricks, and Power BI to support data-driven decision-making and strategic insights. My recent work includes developing a Liability Risk Index framework for oil & gas wells through the Society of Petroleum Engineers Data Science Mentorship Program and analyzing infrastructure investment impacts on housing markets through Data for Good Edmonton.
+
+I am actively seeking opportunities in business analytics, energy analytics, economic research, and data-driven strategy roles!
+
 
 ---
 
 ## 🛠️ Technical Skills
 **Programming Languages:**  
-- Python, SQL 
+- Python, SQL, RStudio, Databricks, Power BI, Microsoft Excel
 
-**Machine Learning & Statistical Modeling:**   
-- Classification & Regression (Logistic Regression, Random Forest, XGBoost)  
-- Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)  
-- Handling Imbalanced Data (SMOTE)  
-- Model Evaluation (AUC, Precision, Recall, Confusion Matrix)
+**Data Analysis & Forecasting:**    
+- Statistical Modelling, Regression Analysis, Time Series Forecasting, Econometrics, Risk Analysis, Data Visualization
 
-**Data Handling & Visualization:**  
-- Exploratory Data Analysis (EDA)
-- Data cleaning and preprocessing
-- Data visualization
-- Dashboard development (PowerBI, EXCEL)
+**Data Engineering & Processing:**  
+- Exploratory Data Analysis (EDA), Data cleaning & Validation, ETL Workflows, Data Integration, Feature Engineering, Dashboard Development
+
+**Business & Research Skills:**
+- Business Analysis, Economic Analysis, Trend Analysis, Research, Reporting, Decision Support, Strategic Thinking
 
 **Tools & Platforms:**  
-- GitHub
-- Jupyter Notebooks
-- VS Code
-- Microsoft Excel
-- Power BI
+- GitHub, Jupyter Notebook, VS Code, Power BI, ArcGIS, Microsoft Excel
 
 ---
 
 ## 📂 My Projects
-- [Credit Risk Prediction Using Supervised Machine Learning Model](https://github.com/akabzw24/Credit-Risk-Prediction-Using-Supervised-Machine-Learning-Model)  
-Built and compared supervised learning models to predict credit card default using imbalanced financial data. Applied SMOTE oversampling and model evaluation metrics to enhance predictive performance and support risk assessment strategies.
-- [Urban System Revenue Prediction with XGBoost (DSMLC Competition)](https://github.com/akabzw24/Urban-revenue-prediction-XGBoost)  
-Applied XGBoost regression modelling to predict municipal revenue in urban systems using infrastructure investment data. Feature engineering, log transformation, and model tuning achieved high predictive accuracy.
+- [Liability Risk Index (LRI) for BC Oil & Gas Wells](https://github.com/akabzw24)  
+Developed a risk prioritization framework using Databricks, PySpark, and Power BI to identify high-risk oil & gas wells across British Columbia using operational, environmental, and financial indicators. Applied clustering techniques and spatial analytics to support regulatory and operational decision-making.
+
 - [Quantify Energy Risk Case Competition 2025](https://github.com/akabzw24/quantify-energy-risk-case-2025)  
 Built classification models (Logistic Regression, Random Forest, XGBoost) to predict high-loss CAT events. Created an interactive Power BI dashboard with parametric triggers and strategic recommendations for renewable expansion.
+
 - [Demographic Trends and Housing Analysis in Calgary (Capstone Project)](https://github.com/akabzw24/Demographic-Trends-and-Housing-Analysis-in-Calgary)
 Conducted regression analysis on Calgary's housing supply and population growth using historical census and building permit data. Identified key factors influencing demographic shifts and housing demands to inform urban planning strategies.
-- [Detecting COVID-19 Health Misinformation Targeting Older Adults](https://github.com/akabzw24/covid-misinfo-nlp)  
-Developed and compared TF–IDF + Logistic Regression and fine-tuned BERT classifiers on COVID-19 tweets, evaluated cross-platform robustness on senior-focused Reddit posts, applied SHAP for interpretability, and used LDA topic modelling to uncover key misinformation themes.
 
-
----
-
-## 🌱 Currently Learning & Building
-- 💻 Currently Learning NLP & LLM.
-- Advancing my skills in machine learning and Python
+- [Civic Signal Program — Data for Good Edmonton](https://github.com/akabzw24)
+Analyzed large-scale municipal property assessment and transportation infrastructure datasets from 2012 to 2024 to evaluate how infrastructure investments influence neighbourhood housing values and urban development trends. Applied econometric and spatial analysis techniques, including event-study difference-in-differences, hedonic regression, and spatial buffer analysis to support data-driven policy evaluation and strategic planning discussions.
 
 ---
 
-## 💞️ Collaboration Interests
-- 🎯 Open to hackathons, case competitions, and interdisciplinary collaborations
-- 🚀 Open to collaboration and internships in Data Science, Business Analytics, or Applied Research.
-- 📢 How to reach me: BozhaoWang24@gmail.com
+## 🌱 Currently Interests
+- Energy & Infrastructure Analytics
+- Business Intelligence & Forecasting
+- Economic & Policy Analysis
+- Risk Modelling & Decision Support
+- Data Visualization & Dashboarding
 
 ---
 
