@@ -33,7 +33,7 @@ I am actively seeking opportunities in business analytics, energy analytics, eco
 ---
 
 ## 📂 My Projects
-- [Liability Risk Index (LRI) for BC Oil & Gas Wells](https://github.com/akabzw24)  
+- [Liability Risk Index (LRI) for BC Oil & Gas Wells](https://github.com/bc-well-risk-project)  
 Developed a risk prioritization framework using Databricks, PySpark, and Power BI to identify high-risk oil & gas wells across British Columbia using operational, environmental, and financial indicators. Applied clustering techniques and spatial analytics to support regulatory and operational decision-making.
 
 - [Quantify Energy Risk Case Competition 2025](https://github.com/akabzw24/quantify-energy-risk-case-2025)  
